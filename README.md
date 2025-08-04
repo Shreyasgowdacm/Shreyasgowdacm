@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a video editor and photo editor
+Passionate about building responsive web applications and clean UI designs. Skilled in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, and Figma, I focus on creating seamless user experiences through modern design and efficient code.
+Also I am a video editor and photo editor.
 
 
 ## 🌐 Socials:
